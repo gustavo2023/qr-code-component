@@ -53,7 +53,7 @@ Aside from that I want to get a better understanding of the box-model to I can k
 
 ### Useful resources
 
-- [Article](https://fedmentor.dev/posts/font-size-px/) - This helped me to understand why I souldn't use pixel units for font-size and instead to use other units that adapt better to changes in the browser settings of different users. 
+- [Why font size must never be in pixels](https://fedmentor.dev/posts/font-size-px/) - This helped me to understand why I souldn't use pixel units for font-size and instead to use other units that adapt better to changes in the browser settings of different users. 
 
 ## Author
 

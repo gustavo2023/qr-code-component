@@ -7,7 +7,9 @@ body {
 
 #container {
     max-width: 320px;
-    margin: 15vh auto;
+    margin: 0 auto;
+    margin-top: 10vh;
+    
 }
 
 .qr-card {
@@ -43,4 +45,15 @@ p {
     line-height: 140%;
     letter-spacing: 0.2px;
     text-align: center;
+}
+
+.attribution {
+    text-align: center;
+    margin: 15px auto;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.attribution a {
+    color: rgba(0, 0, 0, 0.5);
 }
